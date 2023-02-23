@@ -1,14 +1,19 @@
-#Grafika Komputer Genap 2023
-Repositori ini berisi source code implementasi pada kuliah Grafika Komputer.
-A. WebGL API
- 1. Bangun Primitive
- 2. Animasi dan Interaksi Pengguna
- 3. Bangun 3D
- 4. Pencahayaan dan Pembayangan
- 5. Material
-B. Unity
- 1. Transformasi 2 Dimensi
- 2. Algoritma Primitif
- 3. Tampilan 2 Dimensi
- 4. Transformasi 3 Dimensi
- 5. Tampilan 3 Dimensi
+<h2>Grafika Komputer Genap 2023</h2>
+Repositori ini berisi source code implementasi pada kuliah Grafika Komputer.<br/>
+<h3>A. WebGL API<br/></h3>
+<ol>
+ <li>Bangun Primitive</li>
+ <li>Animasi dan Interaksi Pengguna</li>
+ <li>Bangun 3D</li>
+ <li>Pencahayaan dan Pembayangan</li>
+ <li>Material</li>
+</ol>
+ 
+<h3>B. Unity<br/></h3>
+<ol>
+ <li>Transformasi 2 Dimensi</li>
+ <li>Algoritma Primitif</li>
+ <li>Tampilan 2 Dimensi</li>
+ <li>Transformasi 3 Dimensi</li>
+ <li>Tampilan 3 Dimensi</li>
+</ol>
